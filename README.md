@@ -13,9 +13,9 @@ allocations = []
 
 # Functions
 
-allocate_room() -	Allocates room
-view_allocations() -	Displays allocations
-main() -	Program control
+* allocate_room() -	Allocates room
+* view_allocations() -	Displays allocations
+* main() -	Program control
 
 
 # 3. Testing
