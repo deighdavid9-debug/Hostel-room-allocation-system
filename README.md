@@ -1,5 +1,5 @@
 # Hostel-room-allocation-system
-* Name : Deigh Quintin
+* Name :  David Deigh Quintin
 * Matric no : 24/13843
 * Department : Computer science
 
